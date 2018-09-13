@@ -18,7 +18,7 @@ The application collects some usage data that are essential for us to deliver ou
 
 The application does NOT collect any personal data that directly identifies you such as your name, surname, email or anything you type within the app.
 
-### We use the following third party services for our Android app:
+We use the following third party services for our Android app:
 
 - Google Analytics (Google Inc.)
 
