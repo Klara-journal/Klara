@@ -1,37 +1,39 @@
-## Privacy policy
+# Privacy policy
 
-You can use the [editor on GitHub](https://github.com/Klara-journal/Klara/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We believe in transparency and honesty. We hope you will find this privacy policy clear and transparent. Do not hesitate to reach out to us at info.klaarjournal@gmail.com if you have any questions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What information does the Application obtain and how is it used?
 
-### Markdown
+The Application does not provide an option to create an account therefore, we do not store nor have access to your entries and data. Your data are stored only locally on your device. You can optionally backup your data to Google Drive. Your backups are stored in your private cloud space and we don’t have access to your backup files.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We obtain your email address when you request support via email or customer support contact form. We use your email only to contact you to provide support, feedback or important information.
 
-```markdown
-Syntax highlighted code block
+## Backup
 
-# Header 1
-## Header 2
-### Header 3
+Android users can optionally backup their data using Google Drive. We use a secure connection to your Google Account and data is safely stored in a folder where we nor other app have access. View Google Privacy Policy at https://www.google.com/policies/privacy/
 
-- Bulleted
-- List
+## Analytics
 
-1. Numbered
-2. List
+The application collects some usage data that are essential for us to deliver our services, to understand your needs and to improve our services. For example, the application collects how much time users spent on certain screens or which features are popular. The analytics services automatically collect certain information that does not personally identify our end users who access or use our mobile application. This information includes but is not limited to device hardware, OS information, information relating to how application functions.
 
-**Bold** and _Italic_ and `Code` text
+The application does NOT collect any personal data that directly identifies you such as your name, surname, email or anything you type within the app.
 
-[Link](url) and ![Image](src)
-```
+### We use the following third party services for our Android app:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Google Analytics (Google Inc.)
 
-### Jekyll Themes
+This service helps us to collect and analyze usage data in order to understand usage patterns and to improve our Android app. All data collected anonymiuosly.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Klara-journal/Klara/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Firebase Crash Reporting (Google Inc.)
 
-### Support or Contact
+This service helps us to identify crashes and errors in our app. It helps us to improve reliability and stability of our Android app.
+Personal data collected: Instance IDs, Crash traces
+Data retention: 180 days for crash stack traces, Firebase retains Instance IDs until the Firebase customer makes an API call to delete the ID.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Changes
+
+We reserve the right, at our sole discretion, to modify or replace this Policy at any time. Any changes we may make to our privacy policy in the future will be posted on this page. You should check this page from time to time and take note of any changes.
+
+## Contact Us
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at info.klaarjournal@gmail.com
+
