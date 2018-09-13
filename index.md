@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Privacy policy
 
 You can use the [editor on GitHub](https://github.com/Klara-journal/Klara/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
